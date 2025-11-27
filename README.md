@@ -92,3 +92,10 @@ Our codebase is built using multiple opensource contributions, please see [ACKNO
 ## License
 Please check out the repository [LICENSE](LICENSE) before using the provided code and
 [LICENSE_MODEL](LICENSE_MODEL) for the released models.
+
+
+## Server Starup
+
+'''bash
+python server.py --model-path ./llava-fastvithd_1.5b_stage3
+'''
